@@ -30,7 +30,7 @@ The *revision* element is an attribute of the *Cell* element, and contains the i
 
   (value: String;) contains a string identifying the author of that revision or validation.
   
-  ~~~
+~~~
 <Cell>
 	...
 	<revision>
@@ -46,7 +46,7 @@ The *revision* element is an attribute of the *Cell* element, and contains the i
 
   (value: String;) contains a string identifying the time that that revision or validation occurred.
   
-    ~~~
+~~~
 <Cell>
 	...
 	<revision>
